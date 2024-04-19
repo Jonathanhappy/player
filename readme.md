@@ -27,11 +27,10 @@
 ![react native track player.png](resources%2Freact%20native%20track%20player.png)
 
 ## UI design
+![screen01.png](resources%2Fscreen01.png)
 
-![iPhone 13 mini – 1.png](resources%2FiPhone%2013%20mini%20%96%201.png)
+![screen02.png](resources%2Fscreen02.png)
 
-![iPhone 13 mini – 2.png](resources%2FiPhone%2013%20mini%20%96%202.png)
+![screen03.png](resources%2Fscreen03.png)
 
-![iPhone 13 mini – 3.png](resources%2FiPhone%2013%20mini%20%96%203.png)
-
-![iPhone 13 mini – 4.png](resources%2FiPhone%2013%20mini%20%96%204.png)
+![screen04.png](resources%2Fscreen04.png)
