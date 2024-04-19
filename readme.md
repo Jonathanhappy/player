@@ -28,10 +28,9 @@
 
 ## UI design
 
-![iPhone 13 mini – 1.png](resources%2FiPhone%2013%20mini%20%96%201.png)
-
-![iPhone 13 mini – 2.png](resources%2FiPhone%2013%20mini%20%96%202.png)
-
-![iPhone 13 mini – 3.png](resources%2FiPhone%2013%20mini%20%96%203.png)
-
-![iPhone 13 mini – 4.png](resources%2FiPhone%2013%20mini%20%96%204.png)
+<div style= "display: flex; flex-wrap: wrap; ">
+<img alt="screen01.png" src="resources%2Fscreen01.png" width="200"/>
+<img alt="screen02.png" src="resources%2Fscreen02.png" width="200"/>
+<img alt="screen03.png" src="resources%2Fscreen03.png" width="200"/>
+<img alt="screen04.png" src="resources%2Fscreen04.png" width="200"/>
+</div>
