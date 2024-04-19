@@ -27,10 +27,11 @@
 ![react native track player.png](resources%2Freact%20native%20track%20player.png)
 
 ## UI design
-![screen01.png](resources%2Fscreen01.png)
 
-![screen02.png](resources%2Fscreen02.png)
+<img alt="screen01.png" height="200" src="resources%2Fscreen01.png" width="150"/>
 
-![screen03.png](resources%2Fscreen03.png)
+<img alt="screen02.png" height="200" src="resources%2Fscreen02.png" width="150"/>
 
-![screen04.png](resources%2Fscreen04.png)
+<img alt="screen03.png" height="200" src="resources%2Fscreen03.png" width="150"/>
+
+<img alt="screen04.png" height="200" src="resources%2Fscreen04.png" width="150"/>
