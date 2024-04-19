@@ -28,10 +28,9 @@
 
 ## UI design
 
+<div style= "display: flex; flex-wrap: wrap; ">
 <img alt="screen01.png" src="resources%2Fscreen01.png" width="200"/>
-
 <img alt="screen02.png" src="resources%2Fscreen02.png" width="200"/>
-
 <img alt="screen03.png" src="resources%2Fscreen03.png" width="200"/>
-
 <img alt="screen04.png" src="resources%2Fscreen04.png" width="200"/>
+</div>
